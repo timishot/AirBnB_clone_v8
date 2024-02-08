@@ -7,7 +7,7 @@ from models.user import User
 from models.city import City
 from models.amenity import Amenity
 from models.place import Place
-from models.__init__ import storage
+# from models.__init__ import storage
 
 
 # creation of a Stategfgg
